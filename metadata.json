@@ -1,0 +1,6 @@
+{
+  "name": "SQL Code Finder",
+  "description": "Biblioteca inteligente de consulta, filtros, comparação e exemplos de códigos SQL em múltiplos bancos de dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
